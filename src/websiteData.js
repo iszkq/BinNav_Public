@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/12/28 19:58:17
+// 网站数据 - 通过管理后台更新于 2025/12/28 20:17:21
 
 // 站点配置
 export const siteConfig = {
@@ -15,26 +15,13 @@ export const websiteData = [
   {
     "id": 1751807882512,
     "name": "恪勤博客（极速访问）",
-    "description": "作者个人站点展示",
+    "description": "作者个人站点展示，通过mefrp国内隧道进行内网穿透",
     "url": "http://47.116.196.47:47283/",
     "category": "author",
     "tags": [
       "个人站点"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=47.116.196.47"
-  },
-  {
-    "id": 40,
-    "name": "Newbie Village",
-    "description": "二进制博客",
-    "url": "https://blog.nbvil.com/",
-    "category": "author",
-    "tags": [
-      "个人博客",
-      "教程分享",
-      "开发心得"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=blog.nbvil.com"
   },
   {
     "id": 1751813976438,
@@ -48,49 +35,24 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=47.116.196.47"
   },
   {
-    "id": 1751598590526,
-    "name": "YouTube频道",
-    "description": "作者YouTube频道，定期上传视频教程",
-    "url": "https://www.youtube.com/@nbvil.sindri",
+    "id": 1766924124588,
+    "name": "1panel运维后台（极速访问）",
+    "description": "通过mefrp国内隧道进行内网穿透",
+    "url": "http://47.116.196.47:54918",
     "category": "author",
-    "tags": [
-      "视频"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=www.youtube.com"
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=47.116.196.47"
   },
   {
-    "id": 41,
-    "name": "GitHub Projects",
-    "description": "作者开源项目",
-    "url": "https://github.com/sindricn",
+    "id": 1766924225905,
+    "name": "恪勤博客（备用 魔法访问）",
+    "description": "通过edgeone托管的备用博客",
+    "url": "https://bk.527012.xyz",
     "category": "author",
     "tags": [
-      "开源项目"
+      "EdgeOne，Blog"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=github.com"
-  },
-  {
-    "id": 1751596898467,
-    "name": "B站",
-    "description": "作者B站频道，不定期上传视频教程",
-    "url": "https://space.bilibili.com/3546865807133625",
-    "category": "author",
-    "tags": [
-      "视频"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=bilibili.com"
-  },
-  {
-    "id": 45,
-    "name": "知乎专栏",
-    "description": "二进制-知乎",
-    "url": "https://www.zhihu.com/people/mrblack-41-9",
-    "category": "author",
-    "tags": [
-      "知乎专栏",
-      "技术文章"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=www.zhihu.com"
+    "icon": "https://icon.nbvil.com/favicon?url=bk.527012.xyz"
   },
   {
     "id": 1751617129171,
