@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/12/28 20:44:53
+// 网站数据 - 通过管理后台更新于 2025/12/28 22:10:52
 
 // 站点配置
 export const siteConfig = {
@@ -101,12 +101,98 @@ export const websiteData = [
   },
   {
     "id": 1766925881592,
-    "name": "Mefrp",
-    "description": "",
+    "name": "Mefrp内网穿透",
+    "description": "ME Frp 幻缘映射 - 提供免费内网穿透、端口映射服务，支持 Minecraft、泰拉瑞亚联机，远程桌面，开发调试，建站等。高速稳定，半公益性质，可以帮助你无公网 IP 远程访问后台、建站、调试、游戏联机等。",
     "url": "https://mefrp.com",
     "category": "recommended",
-    "tags": [],
+    "tags": [
+      "内网穿透",
+      "frp"
+    ],
     "icon": "https://icon.nbvil.com/favicon?url=mefrp.com"
+  },
+  {
+    "id": 1766930071980,
+    "name": "草料二维码",
+    "description": "一站式二维码生成工具，免费可用。提供编码解码、数据统计、富文本和多媒体展示、表单制作、美化标签、批量管理等功能，并可作为无代码平台，搭建二维码信息系统。",
+    "url": "https://cli.im/",
+    "category": "recommended",
+    "tags": [
+      "二维码在线生成"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=cli.im"
+  },
+  {
+    "id": 1766928471052,
+    "name": "可画Canva",
+    "description": "Canva可画_在线设计协作平台_平面设计作图软件_视觉办公套件 - Canva中文官网",
+    "url": "https://www.canva.cn/",
+    "category": "category_1766928043166",
+    "tags": [
+      "图片设计",
+      "ppt设计",
+      "海报设计"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.canva.cn"
+  },
+  {
+    "id": 1766928179323,
+    "name": "Notion",
+    "description": "构建自定义代理,在所有应用中搜索,并自动完成繁忙工作。人工智能工作空间,让团队更快完成更多工作。",
+    "url": "https://www.notion.so/",
+    "category": "category_1766928043166",
+    "tags": [
+      "笔记",
+      "教育版无限上传"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.notion.so"
+  },
+  {
+    "id": 1766928844632,
+    "name": "Craft 设计",
+    "description": "Craft — 文档与笔记编辑器，设备伴随你的高端写作体验。",
+    "url": "https://www.craft.do/zh-CN",
+    "category": "category_1766928043166",
+    "tags": [
+      "Craft 设计",
+      "网页卡片式设计",
+      "笔记"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.craft.do"
+  },
+  {
+    "id": 1766929954654,
+    "name": "figma网站设计",
+    "description": "网站设计，支持ai互动式对话生成在线网站，支持数据库在线托管使用一条龙服务，但需要使用教育版，可看看咸鱼",
+    "url": "https://www.figma.com/",
+    "category": "category_1766928043166",
+    "tags": [
+      "Figmal",
+      "网站设计"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.figma.com"
+  },
+  {
+    "id": 1766930143700,
+    "name": "在线网易云音乐",
+    "description": "网易云音乐，音乐，播放器，网易，下载，播放，DJ，免费，明星，精选，歌单，识别音乐，收藏，分享音乐，音乐互动，高音质，320K，音乐社交，官网，music.163.com",
+    "url": "https://music.163.com/",
+    "category": "category_1766930831725",
+    "tags": [
+      "网页版网易云音乐"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=music.163.com"
+  },
+  {
+    "id": 1766930197612,
+    "name": "B站",
+    "description": "哔哩哔哩（bilibili.com)是国内知名的视频弹幕网站，这里有及时的动漫新番，活跃的ACG氛围，有创意的Up主。大家可以在这里找到许多欢乐。",
+    "url": "https://www.bilibili.com/",
+    "category": "category_1766930831725",
+    "tags": [
+      "网页版B站"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.bilibili.com"
   },
   {
     "id": 1751811992820,
@@ -143,6 +229,30 @@ export const websiteData = [
       "对话"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=grok.com"
+  },
+  {
+    "id": 1766930939165,
+    "name": "豆包",
+    "description": "豆包是你的 AI 聊天智能对话问答助手，写作文案翻译编程全能工具。豆包为你答疑解惑，提供灵感，辅助创作，也可以和你畅聊任何你感兴趣的话题。",
+    "url": "https://www.doubao.com/chat/",
+    "category": "category_1751811714830",
+    "tags": [
+      "Ai聊天",
+      "Ai工具"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.doubao.com"
+  },
+  {
+    "id": 1766931007104,
+    "name": "gemini（需魔法）",
+    "description": "认识 Gemini：Google 旗下的 AI 助理。在写作、规划和开展头脑风暴等方面获得帮助。体验生成式 AI 的强大功能。",
+    "url": "https://gemini.google.com/?hl=zh-cn",
+    "category": "category_1751811714830",
+    "tags": [
+      "ai聊天",
+      "ai工具"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=google.com"
   },
   {
     "id": 1751812924193,
@@ -287,6 +397,20 @@ export const categories = [
     "id": "recommended",
     "name": "常用推荐",
     "icon": "/assets/star.png",
+    "special": false,
+    "subcategories": []
+  },
+  {
+    "id": "category_1766928043166",
+    "name": "在线设计",
+    "icon": "/assets/tools_icon.png",
+    "special": false,
+    "subcategories": []
+  },
+  {
+    "id": "category_1766930831725",
+    "name": "音、视频网站",
+    "icon": "/assets/__.png",
     "special": false,
     "subcategories": []
   },
