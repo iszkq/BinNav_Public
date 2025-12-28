@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/12/28 19:53:29
+// 网站数据 - 通过管理后台更新于 2025/12/28 19:57:14
 
 // 站点配置
 export const siteConfig = {
@@ -14,14 +14,14 @@ export const siteConfig = {
 export const websiteData = [
   {
     "id": 1751807882512,
-    "name": "个人站点",
+    "name": "恪勤博客（极速访问）",
     "description": "作者个人站点展示",
-    "url": "https://www.baidu.com",
+    "url": "http://47.116.196.47:47283/",
     "category": "author",
     "tags": [
       "个人站点"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=www.baidu.com"
+    "icon": "https://icon.nbvil.com/favicon?url=47.116.196.47"
   },
   {
     "id": 40,
@@ -38,14 +38,14 @@ export const websiteData = [
   },
   {
     "id": 1751813976438,
-    "name": "博主云盘",
-    "description": "分享教程涉及的工具及相关文档代码",
-    "url": "https://pan.nbvil.com/",
+    "name": "恪勤云盘（极速访问）",
+    "description": "分享视频和一些小文档",
+    "url": "http://47.116.196.47:57801",
     "category": "author",
     "tags": [
       "云盘"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=pan.nbvil.com"
+    "icon": "https://icon.nbvil.com/favicon?url=47.116.196.47"
   },
   {
     "id": 1751598590526,
