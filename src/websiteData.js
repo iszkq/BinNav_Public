@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/12/28 20:40:58
+// 网站数据 - 通过管理后台更新于 2025/12/28 20:42:27
 
 // 站点配置
 export const siteConfig = {
@@ -19,7 +19,8 @@ export const websiteData = [
     "url": "http://47.116.196.47:47283/",
     "category": "author",
     "tags": [
-      "个人站点，Frp内网穿透"
+      "个人站点",
+      "Frp内网穿透"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=47.116.196.47"
   },
@@ -43,7 +44,8 @@ export const websiteData = [
     "url": "http://47.116.196.47:54918/entrance",
     "category": "author",
     "tags": [
-      "1panel，Frp内网穿透"
+      "1panel",
+      "Frp内网穿透"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=47.116.196.47"
   },
@@ -54,7 +56,8 @@ export const websiteData = [
     "url": "https://blog.527012.xyz",
     "category": "author",
     "tags": [
-      "EdgeOne，Blog"
+      "EdgeOne",
+      "Blog"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=blog.527012.xyz"
   },
