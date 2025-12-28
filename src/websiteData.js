@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/12/28 20:22:25
+// 网站数据 - 通过管理后台更新于 2025/12/28 20:40:58
 
 // 站点配置
 export const siteConfig = {
@@ -38,7 +38,7 @@ export const websiteData = [
   },
   {
     "id": 1766924124588,
-    "name": "1panel运维后台（极速访问）",
+    "name": "运维后台（极速访问）",
     "description": "通过mefrp国内隧道进行内网穿透，速度很快",
     "url": "http://47.116.196.47:54918/entrance",
     "category": "author",
@@ -72,7 +72,7 @@ export const websiteData = [
   },
   {
     "id": 1766924493250,
-    "name": "1panel运维后台（备用 魔法访问）",
+    "name": "运维后台（备用 魔法访问）",
     "description": "1panel运维后台，通过EdgeOne托管",
     "url": "https://1panel.527012.xyz/entrance",
     "category": "author",
