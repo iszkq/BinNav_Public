@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/12/28 20:17:41
+// 网站数据 - 通过管理后台更新于 2025/12/28 20:22:25
 
 // 站点配置
 export const siteConfig = {
@@ -19,7 +19,7 @@ export const websiteData = [
     "url": "http://47.116.196.47:47283/",
     "category": "author",
     "tags": [
-      "个人站点"
+      "个人站点，Frp内网穿透"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=47.116.196.47"
   },
@@ -30,7 +30,9 @@ export const websiteData = [
     "url": "http://47.116.196.47:57801",
     "category": "author",
     "tags": [
-      "云盘"
+      "云盘",
+      "Alist",
+      "Frp内网穿透"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=47.116.196.47"
   },
@@ -38,21 +40,47 @@ export const websiteData = [
     "id": 1766924124588,
     "name": "1panel运维后台（极速访问）",
     "description": "通过mefrp国内隧道进行内网穿透，速度很快",
-    "url": "http://47.116.196.47:54918",
+    "url": "http://47.116.196.47:54918/entrance",
     "category": "author",
-    "tags": [],
+    "tags": [
+      "1panel，Frp内网穿透"
+    ],
     "icon": "https://icon.nbvil.com/favicon?url=47.116.196.47"
   },
   {
     "id": 1766924225905,
     "name": "恪勤博客（备用 魔法访问）",
     "description": "通过edgeone托管的备用博客",
-    "url": "https://bk.527012.xyz",
+    "url": "https://blog.527012.xyz",
     "category": "author",
     "tags": [
       "EdgeOne，Blog"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=bk.527012.xyz"
+    "icon": "https://icon.nbvil.com/favicon?url=blog.527012.xyz"
+  },
+  {
+    "id": 1766924343456,
+    "name": "恪勤云盘（备用 魔法访问）",
+    "description": "OpenList云盘，用EdgeOne托管备用",
+    "url": "https://cloud.527012.xyz",
+    "category": "author",
+    "tags": [
+      "OpenList",
+      "EdgeOne"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=cloud.527012.xyz"
+  },
+  {
+    "id": 1766924493250,
+    "name": "1panel运维后台（备用 魔法访问）",
+    "description": "1panel运维后台，通过EdgeOne托管",
+    "url": "https://1panel.527012.xyz/entrance",
+    "category": "author",
+    "tags": [
+      "1panel",
+      "EdgeOne"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=527012.xyz"
   },
   {
     "id": 1751617129171,
