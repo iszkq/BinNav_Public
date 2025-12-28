@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/12/28 20:17:21
+// 网站数据 - 通过管理后台更新于 2025/12/28 20:17:41
 
 // 站点配置
 export const siteConfig = {
@@ -26,7 +26,7 @@ export const websiteData = [
   {
     "id": 1751813976438,
     "name": "恪勤云盘（极速访问）",
-    "description": "分享视频和一些小文档",
+    "description": "分享视频和一些小文档，通过mefrp国内隧道进行内网穿透",
     "url": "http://47.116.196.47:57801",
     "category": "author",
     "tags": [
@@ -37,7 +37,7 @@ export const websiteData = [
   {
     "id": 1766924124588,
     "name": "1panel运维后台（极速访问）",
-    "description": "通过mefrp国内隧道进行内网穿透",
+    "description": "通过mefrp国内隧道进行内网穿透，速度很快",
     "url": "http://47.116.196.47:54918",
     "category": "author",
     "tags": [],
