@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/12/28 20:43:29
+// 网站数据 - 通过管理后台更新于 2025/12/28 20:44:53
 
 // 站点配置
 export const siteConfig = {
@@ -98,6 +98,15 @@ export const websiteData = [
       "DDOS"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=www.cloudflare.com"
+  },
+  {
+    "id": 1766925881592,
+    "name": "Mefrp",
+    "description": "",
+    "url": "https://mefrp.com",
+    "category": "recommended",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=mefrp.com"
   },
   {
     "id": 1751811992820,
