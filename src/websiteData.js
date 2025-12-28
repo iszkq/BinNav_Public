@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/12/28 22:25:57
+// 网站数据 - 通过管理后台更新于 2025/12/28 23:00:10
 
 // 站点配置
 export const siteConfig = {
@@ -410,7 +410,7 @@ export const categories = [
   {
     "id": "category_1766930831725",
     "name": "音、视频网站",
-    "icon": "/assets/___.png",
+    "icon": "/assets/network_icon.png",
     "special": false,
     "subcategories": []
   },
