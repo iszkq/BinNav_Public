@@ -256,7 +256,7 @@ function HomePage() {
 
                   
                   <a 
-                    href="https://github.com/iszkq/BinNav_Public" 
+                    href="https://nav.527012.xyz/" 
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center p-3 bg-gray-50 hover:bg-gray-100 rounded-lg transition-colors group"
@@ -389,7 +389,7 @@ function HomePage() {
                 </a>
                 <span className="mx-2">·</span>
                 <a
-                  href="https://github.com/iszkq/BinNav_Public/blob/main/LICENSE"
+                  href="https://nav.527012.xyz/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-blue-600 hover:text-blue-800 transition-colors"
