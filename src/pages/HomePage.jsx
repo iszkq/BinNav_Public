@@ -380,12 +380,12 @@ function HomePage() {
               <div>
                 <span>© 2025 </span>
                 <a
-                  href="https://i.bincore.cn"
+                  href="https://nav.527012.xyz/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-blue-600 hover:text-blue-800 transition-colors"
                 >
-                  Sindri
+                  KeQin-导航
                 </a>
                 <span className="mx-2">·</span>
                 <a
