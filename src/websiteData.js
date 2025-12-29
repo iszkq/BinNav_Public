@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/12/29 22:29:30
+// 网站数据 - 通过管理后台更新于 2025/12/29 22:35:33
 
 // 站点配置
 export const siteConfig = {
@@ -348,6 +348,17 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=suno.com"
   },
   {
+    "id": 1767018895216,
+    "name": "人人秀",
+    "description": "人人秀是一款在线设计和营销工具，提供海量的模板，可以快速创建和分享海报、H5页面、问卷、文章、长页、互动、搭建、画册等多种在线营销素材，满足个人、团队、企业的各种营销活动需求。",
+    "url": "https://rrx.cn/index",
+    "category": "category_1766928043166",
+    "tags": [
+      "在线营销素材制作"
+    ],
+    "icon": "/assets/logo.png"
+  },
+  {
     "id": 1766930143700,
     "name": "在线网易云音乐",
     "description": "网易云音乐，音乐，播放器，网易，下载，播放，DJ，免费，明星，精选，歌单，识别音乐，收藏，分享音乐，音乐互动，高音质，320K，音乐社交，官网，music.163.com",
@@ -368,6 +379,17 @@ export const websiteData = [
       "网页版B站"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=www.bilibili.com"
+  },
+  {
+    "id": 1767018833615,
+    "name": "抖音网页版",
+    "description": "海量优质视频内容，涵盖游戏、二次元、美食、音乐、知识、体育运动、旅行、生活等各类题材，系列合集内容连续看，有用又有趣，无论是休闲解压、消遣下饭，还是发现爱好、获取知识，你想要的好内容，都在抖音精选。",
+    "url": "https://www.douyin.com/",
+    "category": "category_1766930831725",
+    "tags": [
+      "短视频"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.douyin.com"
   },
   {
     "id": 1751811992820,
