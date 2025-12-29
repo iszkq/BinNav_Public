@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/12/28 23:15:26
+// 网站数据 - 通过管理后台更新于 2025/12/29 21:44:35
 
 // 站点配置
 export const siteConfig = {
@@ -121,6 +121,29 @@ export const websiteData = [
       "二维码在线生成"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=cli.im"
+  },
+  {
+    "id": 1767015598728,
+    "name": "Microsoft Clipchamp",
+    "description": "使用免版税音乐和库存视频素材制作视频，应用预设视频模板，导出最高 4K 分辨率视频。可在浏览器中开始使用，下载 Windows 应用，或使用 iOS 应用随时随地创作。",
+    "url": "https://clipchamp.com/zh-hans/",
+    "category": "recommended",
+    "tags": [
+      "转录音视频",
+      "剪辑视频"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=clipchamp.com"
+  },
+  {
+    "id": 1767015732865,
+    "name": "Microsoft Onedrive",
+    "description": "发现 OneDrive，享受安全便捷的文件和文档共享。获取个人云存储空间，轻松与家人和朋友共享文件。",
+    "url": "https://www.microsoft.com/zh-cn/microsoft-365/onedrive/online-cloud-storage",
+    "category": "recommended",
+    "tags": [
+      "个人文件云存储"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.microsoft.com"
   },
   {
     "id": 1766928471052,
@@ -491,5 +514,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2025-12-28"
+  lastUpdated: "2025-12-29"
 };
