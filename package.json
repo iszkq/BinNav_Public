@@ -1,5 +1,5 @@
 {
-  "name": "binnav",
+  "name": "KeQin",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -40,6 +40,6 @@
     "vite",
     "tailwindcss"
   ],
-  "author": "Sindri",
+  "author": "KeQin",
   "license": "MIT"
 }
