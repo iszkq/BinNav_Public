@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/12/29 21:44:35
+// 网站数据 - 通过管理后台更新于 2025/12/29 22:05:34
 
 // 站点配置
 export const siteConfig = {
@@ -86,20 +86,6 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=527012.xyz"
   },
   {
-    "id": 1751617129171,
-    "name": "Cloudflare",
-    "description": "Cloudflare以向客户提供网站安全管理、性能优化及相关的技术支持为主要业务。",
-    "url": "https://www.cloudflare.com/",
-    "category": "recommended",
-    "tags": [
-      "免费",
-      "网站",
-      "CDN",
-      "DDOS"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=www.cloudflare.com"
-  },
-  {
     "id": 1766925881592,
     "name": "Mefrp内网穿透",
     "description": "ME Frp 幻缘映射 - 提供免费内网穿透、端口映射服务，支持 Minecraft、泰拉瑞亚联机，远程桌面，开发调试，建站等。高速稳定，半公益性质，可以帮助你无公网 IP 远程访问后台、建站、调试、游戏联机等。",
@@ -144,6 +130,84 @@ export const websiteData = [
       "个人文件云存储"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=www.microsoft.com"
+  },
+  {
+    "id": 1767016491623,
+    "name": "Wetransfer",
+    "description": "大文件在线云传，三天内免费",
+    "url": "https://wetransfer.com/",
+    "category": "recommended",
+    "tags": [
+      "文件云传"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=wetransfer.com"
+  },
+  {
+    "id": 1767016552944,
+    "name": "ziteboard",
+    "description": "在线白板工具",
+    "url": "https://app.ziteboard.com/?lang=TW",
+    "category": "recommended",
+    "tags": [
+      "在线白板工具"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=app.ziteboard.com"
+  },
+  {
+    "id": 1767016652101,
+    "name": "SMS在线接码（需魔法）",
+    "description": "SMS在线接码（需魔法）",
+    "url": "https://www.sms-activation.net/",
+    "category": "recommended",
+    "tags": [
+      "接码"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=sms-activation.net"
+  },
+  {
+    "id": 1767016799692,
+    "name": "图片转文字（需魔法）",
+    "description": "在线图片转文字，文件互转",
+    "url": "https://www.imagetotext.info/zh/image-to-text",
+    "category": "recommended",
+    "tags": [
+      "图文识别",
+      "文件互转"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.imagetotext.info"
+  },
+  {
+    "id": 1767016857847,
+    "name": "M3U8视频转码下载",
+    "description": "m3u8 视频在线提取工具",
+    "url": "https://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html",
+    "category": "recommended",
+    "tags": [
+      "视频转码"
+    ],
+    "icon": "/assets/logo.png"
+  },
+  {
+    "id": 1767016889045,
+    "name": "YouTube视频下载器（需魔法）",
+    "description": "YouTube视频下载",
+    "url": "https://zh.loader.to/1/1080p-video-downloader.html",
+    "category": "recommended",
+    "tags": [
+      "YouTube视频下载"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=zh.loader.to"
+  },
+  {
+    "id": 1767016988167,
+    "name": "B站视频下载",
+    "description": "B站、YouTube、TikTok等视频下载",
+    "url": "https://snapany.com/zh/bilibili",
+    "category": "recommended",
+    "tags": [
+      "视频下载"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=snapany.com"
   },
   {
     "id": 1766928471052,
@@ -194,6 +258,50 @@ export const websiteData = [
       "网站设计"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=www.figma.com"
+  },
+  {
+    "id": 1767016092088,
+    "name": "tally表单",
+    "description": "告别无聊的表格。认识Tally——你一直在寻找的免费直观表单生成器。",
+    "url": "https://tally.so/",
+    "category": "category_1766928043166",
+    "tags": [
+      "表单"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=tally.so"
+  },
+  {
+    "id": 1767016589830,
+    "name": "阿里巴巴图标库",
+    "description": "阿里巴巴图标库",
+    "url": "https://www.iconfont.cn/",
+    "category": "category_1766928043166",
+    "tags": [
+      "图标库"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.iconfont.cn"
+  },
+  {
+    "id": 1767016719514,
+    "name": "Adobe全家桶",
+    "description": "Adobe全家桶下载链接",
+    "url": "https://www.yuque.com/yihulaojiu-gsfg9/zz2qv5/77777?#",
+    "category": "category_1766928043166",
+    "tags": [
+      "Adobe全家桶"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.yuque.com"
+  },
+  {
+    "id": 1767017126962,
+    "name": "物言卡片",
+    "description": "将任何内容转化为精美的视觉卡片，在社交媒体上更出众、更抓眼，包括链接、音乐、文章、文字、代码等",
+    "url": "https://mono.cards/zh-CN",
+    "category": "category_1766928043166",
+    "tags": [
+      "卡片制作"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=mono.cards"
   },
   {
     "id": 1766930143700,
@@ -394,6 +502,20 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=termius.com"
   },
   {
+    "id": 1751617129171,
+    "name": "Cloudflare",
+    "description": "Cloudflare以向客户提供网站安全管理、性能优化及相关的技术支持为主要业务。",
+    "url": "https://www.cloudflare.com/",
+    "category": "friend_links",
+    "tags": [
+      "免费",
+      "网站",
+      "CDN",
+      "DDOS"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.cloudflare.com"
+  },
+  {
     "id": 1751807806262,
     "name": "EdgeOne",
     "description": "全球首个支持中国访问的免费CDN",
@@ -468,8 +590,8 @@ export const categories = [
   },
   {
     "id": "friend_links",
-    "name": "友情链接",
-    "icon": "/assets/link.png",
+    "name": "云服务和其他",
+    "icon": "/assets/server_icon.png",
     "special": false,
     "subcategories": []
   }
