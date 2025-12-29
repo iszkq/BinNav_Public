@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/12/29 23:20:53
+// 网站数据 - 通过管理后台更新于 2025/12/30 01:02:48
 
 // 站点配置
 export const siteConfig = {
@@ -357,6 +357,17 @@ export const websiteData = [
       "在线营销素材制作"
     ],
     "icon": "/assets/logo.png"
+  },
+  {
+    "id": 1767027766802,
+    "name": "人声分离",
+    "description": "将音乐分成分离的人声和器乐轨道。是制作卡拉OK伴奏曲目或阿卡贝拉提取器的完美选择。使用了人工智能算法且完全免费使用。",
+    "url": "https://vocalremover.org/zh/",
+    "category": "category_1766928043166",
+    "tags": [
+      "人声分离"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=vocalremover.org"
   },
   {
     "id": 1766930143700,
