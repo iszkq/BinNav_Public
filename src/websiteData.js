@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/12/29 22:12:51
+// 网站数据 - 通过管理后台更新于 2025/12/29 22:29:30
 
 // 站点配置
 export const siteConfig = {
@@ -230,6 +230,17 @@ export const websiteData = [
       "在线聊天"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=app.element.io"
+  },
+  {
+    "id": 1767017777433,
+    "name": "Microsoft Teams",
+    "description": "Microsoft Teams 让协作更轻松。所有工具和文件都整合在一个位置，旨在帮助你轻松自如地建立联系、保持有序并将想法付诸于实践。",
+    "url": "https://www.microsoft.com/zh-cn/microsoft-teams/group-chat-software/",
+    "category": "recommended",
+    "tags": [
+      "在线聊天"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.microsoft.com"
   },
   {
     "id": 1766928471052,
@@ -559,6 +570,105 @@ export const websiteData = [
       "CDN"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=edgeone.ai"
+  },
+  {
+    "id": 1767017838964,
+    "name": "阿里云",
+    "description": "阿里云——阿里巴巴集团旗下全球领先的云计算及人工智能科技公司之一。提供全栈云服务，包括弹性计算、高性能数据库、网络与存储方案，以及AI大模型、向量检索、大数据分析等智能化能力。依托飞天云计算操作系统与全球基础设施，支持企业构建高可用架构，定制基于场景的行业解决方案，免费备案，7×24小时售后支持，助企业无忧上云。",
+    "url": "https://www.aliyun.com/",
+    "category": "friend_links",
+    "tags": [
+      "阿里云服务"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.aliyun.com"
+  },
+  {
+    "id": 1767017911412,
+    "name": "腾讯云",
+    "description": "腾讯云(tencent cloud)为数百万的企业和开发者提供安全稳定的云计算服务，涵盖云服务器、云数据库、云存储、视频与CDN、域名注册等全方位云服务和各行业解决方案。",
+    "url": "https://cloud.tencent.com/",
+    "category": "friend_links",
+    "tags": [
+      "腾讯云服务"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=cloud.tencent.com"
+  },
+  {
+    "id": 1767017981586,
+    "name": "京东云",
+    "description": "京东云是京东科技集团旗下领先的云计算品牌，依托于京东科技集团在人工智能、大数据、云计算、物联网领域的前沿科技能力，提供包含公有云、专有云、混合云在内的多云、安全、可信赖的基础云服",
+    "url": "https://www.jdcloud.com/",
+    "category": "friend_links",
+    "tags": [
+      "京东云服务"
+    ],
+    "icon": "/assets/logo.png"
+  },
+  {
+    "id": 1767018059014,
+    "name": "百度云",
+    "description": "百度智能云致力于为企业和开发者提供全球领先的人工智能、大数据和云计算服务，加速产业智能化转型升级",
+    "url": "https://cloud.baidu.com/",
+    "category": "friend_links",
+    "tags": [
+      "百度云服务"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=baidu.com"
+  },
+  {
+    "id": 1767018142190,
+    "name": "OBS在线推流",
+    "description": "OBS Studio（也称为Open Broadcaster Software或简称OBS）是一款免费且开源的跨平台屏幕录制和直播软件应用。它支持 Windows、macOS、Linux 发行版和 BSD 版本。",
+    "url": "https://obsproject.com/",
+    "category": "friend_links",
+    "tags": [
+      "在线推流"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=obsproject.com"
+  },
+  {
+    "id": 1767018246743,
+    "name": "Wirecast推流",
+    "description": "Wirecast 是 Telestream 推出的一款直播视频制作工具。它允许用户为网络创建实时或点播广播。Wirecast 是一款软件视频切换器，能够控制多台直播摄像机之间的实时切换，同时动态混合其他源媒体，如 QuickTime 电影、音乐、音频和幻灯片，制作专业的广播制作，供网络直播或点播分发。",
+    "url": "https://www.wirecast.io/en/",
+    "category": "friend_links",
+    "tags": [
+      "在线推流"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.wirecast.io"
+  },
+  {
+    "id": 1767018375700,
+    "name": "Vmix推流",
+    "description": "直播视频流媒体软件 |vMix",
+    "url": "https://www.vmix.com/",
+    "category": "friend_links",
+    "tags": [
+      "在线推流"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.vmix.com"
+  },
+  {
+    "id": 1767018434419,
+    "name": "PixPin",
+    "description": "PixPin是一款快速灵活的工具，支持截图、屏幕录制和OCR功能。可轻松捕捉任意内容，固定所有元素，并进行便捷标注。适用于macOS和Windows系统。",
+    "url": "https://pixpin.com/",
+    "category": "friend_links",
+    "tags": [
+      "截图工具"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=pixpin.com"
+  },
+  {
+    "id": 1767018568552,
+    "name": "PotPlayer播放器",
+    "description": "PotPlayer——Windows电影播放器，支持多种多媒体视频和音频格式：  MP4  MKV  MOV  AVI  H.264  HEVC  VOB  DVD  MP3",
+    "url": "https://potplayer.info/",
+    "category": "friend_links",
+    "tags": [
+      "音视频播放器"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=potplayer.info"
   }
 ];
 
