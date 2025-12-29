@@ -48,14 +48,14 @@ function Admin() {
     saveConfig,
     updateWebsiteData,
     updateCategories
-  } = useConfig()
+  } = useAdminConfig()
 
   // 监听全局配置变化，同步到本地状态
   useEffect(() => {
     setSiteSettings(siteConfig)
   }, [siteConfig])
 
-  // 设置页面标题
+  // 设置Admin页面标题
   useEffect(() => {
     document.title = `管理后台 - ${siteConfig.siteName}`
   }, [siteConfig.siteName])
@@ -64,7 +64,7 @@ function Admin() {
 
   // 检查认证状态
   useEffect(() => {
-    const savedAuth = localStorage.getItem('_authenticated')
+    const savedAuth = localStorage.getItem('admin_authenticated')
     if (savedAuth === 'true') {
       setIsAuthenticated(true)
     }
@@ -94,13 +94,13 @@ function Admin() {
       
       if (result.success) {
         setIsAuthenticated(true)
-        localStorage.setItem('_authenticated', 'true')
+        localStorage.setItem('admin_authenticated', 'true')
         setLoginMessage({ type: 'success', content: '登录成功！' })
       } else {
         // 如果服务器验证失败，尝试本地验证（备用方案）
         if (tryLocalPasswordVerification(password)) {
           setIsAuthenticated(true)
-          localStorage.setItem('_authenticated', 'true')
+          localStorage.setItem('admin_authenticated', 'true')
           setLoginMessage({ type: 'success', content: '登录成功！（本地验证）' })
         } else {
           setLoginMessage({ type: 'error', content: result.message || '密码错误！' })
@@ -112,7 +112,7 @@ function Admin() {
       // 网络错误时尝试本地验证
       if (tryLocalPasswordVerification(password)) {
         setIsAuthenticated(true)
-        localStorage.setItem('_authenticated', 'true')
+        localStorage.setItem('admin_authenticated', 'true')
         setLoginMessage({ type: 'success', content: '登录成功！（离线验证）' })
       } else {
         setLoginMessage({ type: 'error', content: '登录验证失败，请检查密码或网络连接' })
@@ -126,6 +126,7 @@ function Admin() {
   const tryLocalPasswordVerification = (inputPassword) => {
     // 这里可以设置本地备用密码，建议使用环境变量
     const localPassword = import.meta.env.ADMIN_PASSWORD || 'admin'
+
     // 简单的密码验证
     return inputPassword === localPassword
   }
@@ -329,7 +330,7 @@ function Admin() {
                         value={siteSettings.siteTitle}
                         onChange={(e) => setSiteSettings({...siteSettings, siteTitle: e.target.value})}
                         className="w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
-                        placeholder="KeQin - 精选网站导航"
+                        placeholder="BinNav - 精选网站导航"
                       />
                       <p className="text-xs text-gray-500 mt-1">显示在浏览器标签页和搜索引擎中的标题</p>
                     </div>
