@@ -389,7 +389,7 @@ function HomePage() {
                 </a>
                 <span className="mx-2">·</span>
                 <a
-                  href="https://github.com/sindricn/BinNav"
+                  href="https://github.com/iszkq/BinNav_Public/blob/main/LICENSE"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-blue-600 hover:text-blue-800 transition-colors"
