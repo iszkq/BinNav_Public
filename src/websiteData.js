@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/12/29 22:35:33
+// 网站数据 - 通过管理后台更新于 2025/12/29 22:45:00
 
 // 站点配置
 export const siteConfig = {
@@ -390,6 +390,18 @@ export const websiteData = [
       "短视频"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=www.douyin.com"
+  },
+  {
+    "id": 1767019495811,
+    "name": "小红书",
+    "description": "小红书 - 你的生活兴趣社区",
+    "url": "https://www.xiaohongshu.com/",
+    "category": "category_1766930831725",
+    "tags": [
+      "在线社区",
+      "图文资源"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.xiaohongshu.com"
   },
   {
     "id": 1751811992820,
