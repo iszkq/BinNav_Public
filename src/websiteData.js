@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/12/29 22:05:34
+// 网站数据 - 通过管理后台更新于 2025/12/29 22:12:51
 
 // 站点配置
 export const siteConfig = {
@@ -210,6 +210,28 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=snapany.com"
   },
   {
+    "id": 1767017486004,
+    "name": "Jitsi Meet",
+    "description": "免费在线会议",
+    "url": "https://meet.jit.si/",
+    "category": "recommended",
+    "tags": [
+      "在线会议"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=meet.jit.si"
+  },
+  {
+    "id": 1767017569736,
+    "name": "Element",
+    "description": "基于matrix矩阵的在线IM聊天平台",
+    "url": "https://app.element.io/",
+    "category": "recommended",
+    "tags": [
+      "在线聊天"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=app.element.io"
+  },
+  {
     "id": 1766928471052,
     "name": "可画Canva",
     "description": "Canva可画_在线设计协作平台_平面设计作图软件_视觉办公套件 - Canva中文官网",
@@ -302,6 +324,17 @@ export const websiteData = [
       "卡片制作"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=mono.cards"
+  },
+  {
+    "id": 1767017323634,
+    "name": "Suno在线音乐制作",
+    "description": "Suno是一款生成式人工智能音乐创作程序，旨在产生人声与乐器相结合的逼真歌曲。",
+    "url": "https://suno.com/",
+    "category": "category_1766928043166",
+    "tags": [
+      "ai音乐生成"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=suno.com"
   },
   {
     "id": 1766930143700,
@@ -554,7 +587,7 @@ export const categories = [
   },
   {
     "id": "category_1766930831725",
-    "name": "音、视频网站",
+    "name": "影音网站",
     "icon": "/assets/video .png",
     "special": false,
     "subcategories": []
