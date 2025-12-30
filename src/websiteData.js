@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/12/30 09:29:09
+// 网站数据 - 通过管理后台更新于 2025/12/30 15:14:50
 
 // 站点配置
 export const siteConfig = {
@@ -263,6 +263,17 @@ export const websiteData = [
       "电子笔记"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=onenote.cloud.microsoft"
+  },
+  {
+    "id": 1767078889287,
+    "name": "draw思维导图",
+    "description": "在线思维导图制作可下载或上传谷歌云端进行分享",
+    "url": "https://app.diagrams.net/",
+    "category": "recommended",
+    "tags": [
+      "思维导图"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=app.diagrams.net"
   },
   {
     "id": 1766928471052,
