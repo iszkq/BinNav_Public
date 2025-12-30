@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/12/30 15:38:13
+// 网站数据 - 通过管理后台更新于 2025/12/30 15:41:54
 
 // 站点配置
 export const siteConfig = {
@@ -606,6 +606,17 @@ export const websiteData = [
       "开发"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=cloud.google.com"
+  },
+  {
+    "id": 1767080471074,
+    "name": "菜鸟教程",
+    "description": "超级全面的程序员教程网站，文档式图文教程，几乎涵盖了所有热门的编程语言。教程和示例相结合，可以边学边练。",
+    "url": "https://www.runoob.com/",
+    "category": "category_1751811752885",
+    "tags": [
+      "编程文档"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.runoob.com"
   },
   {
     "id": 33,
