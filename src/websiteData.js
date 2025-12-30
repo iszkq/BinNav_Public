@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/12/30 15:21:44
+// 网站数据 - 通过管理后台更新于 2025/12/30 15:38:13
 
 // 站点配置
 export const siteConfig = {
@@ -412,6 +412,17 @@ export const websiteData = [
       "pdf工具"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=tools.pdf24.org"
+  },
+  {
+    "id": 1767079972401,
+    "name": "Z-Image生图",
+    "description": "在线AI生图",
+    "url": "https://z-image.62tool.com/",
+    "category": "category_1766928043166",
+    "tags": [
+      "ai作图"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=z-image.62tool.com"
   },
   {
     "id": 1766930143700,
