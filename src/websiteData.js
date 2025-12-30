@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/12/30 15:14:50
+// 网站数据 - 通过管理后台更新于 2025/12/30 15:19:19
 
 // 站点配置
 export const siteConfig = {
@@ -269,7 +269,7 @@ export const websiteData = [
     "name": "draw思维导图",
     "description": "在线思维导图制作可下载或上传谷歌云端进行分享",
     "url": "https://app.diagrams.net/",
-    "category": "recommended",
+    "category": "category_1766928043166",
     "tags": [
       "思维导图"
     ],
@@ -401,6 +401,17 @@ export const websiteData = [
       "人声分离"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=vocalremover.org"
+  },
+  {
+    "id": 1767079140162,
+    "name": "在线pdf工具箱",
+    "description": "一款免费无限制的在线 PDF 处理工具合集，包含了 27 个 PDF 工具。 PDF 合并、分割、编辑、压缩、格式转换、OCR文本识别、添加水印等……统统支持！ 所有功能都可以免费使用，没有文件大小等任何限制！",
+    "url": "https://tools.pdf24.org/zh/all-tools",
+    "category": "category_1766928043166",
+    "tags": [
+      "pdf工具"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=tools.pdf24.org"
   },
   {
     "id": 1766930143700,
