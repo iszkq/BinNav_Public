@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/12/30 01:02:48
+// 网站数据 - 通过管理后台更新于 2025/12/30 09:29:09
 
 // 站点配置
 export const siteConfig = {
@@ -241,6 +241,28 @@ export const websiteData = [
       "在线聊天"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=www.microsoft.com"
+  },
+  {
+    "id": 1767058021378,
+    "name": "spaceship域名",
+    "description": "推荐.xyz域名，十年只需四十几",
+    "url": "https://www.spaceship.com/zh/",
+    "category": "recommended",
+    "tags": [
+      "域名购买"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.spaceship.com"
+  },
+  {
+    "id": 1767058134885,
+    "name": "Microsoft OneNote 笔记",
+    "description": "Microsoft OneNote，你的电子笔记本\n一本多功能笔记本，满足你所有的笔记需求。",
+    "url": "https://onenote.cloud.microsoft/en-gb/",
+    "category": "recommended",
+    "tags": [
+      "电子笔记"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=onenote.cloud.microsoft"
   },
   {
     "id": 1766928471052,
@@ -824,5 +846,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2025-12-29"
+  lastUpdated: "2025-12-30"
 };
