@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/12/30 15:41:54
+// 网站数据 - 通过管理后台更新于 2025/12/31 09:18:23
 
 // 站点配置
 export const siteConfig = {
@@ -423,6 +423,17 @@ export const websiteData = [
       "ai作图"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=z-image.62tool.com"
+  },
+  {
+    "id": 1767143900569,
+    "name": "在线视频压缩",
+    "description": "在线视频压缩平台",
+    "url": "https://www.freeconvert.com",
+    "category": "category_1766928043166",
+    "tags": [
+      "视频压缩"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.freeconvert.com"
   },
   {
     "id": 1766930143700,
@@ -890,5 +901,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2025-12-30"
+  lastUpdated: "2025-12-31"
 };
