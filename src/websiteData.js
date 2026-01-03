@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/12/31 09:18:23
+// 网站数据 - 通过管理后台更新于 2026/1/3 13:38:23
 
 // 站点配置
 export const siteConfig = {
@@ -434,6 +434,17 @@ export const websiteData = [
       "视频压缩"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=www.freeconvert.com"
+  },
+  {
+    "id": 1767418701982,
+    "name": "在线PS平台",
+    "description": "在线PS平台，免费但有侧边栏广告",
+    "url": "https://www.photopea.com/",
+    "category": "category_1766928043166",
+    "tags": [
+      "在线图片设计"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.photopea.com"
   },
   {
     "id": 1766930143700,
@@ -901,5 +912,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2025-12-31"
+  lastUpdated: "2026-01-03"
 };
