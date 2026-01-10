@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/1/3 13:38:23
+// 网站数据 - 通过管理后台更新于 2026/1/10 10:49:22
 
 // 站点配置
 export const siteConfig = {
@@ -263,6 +263,17 @@ export const websiteData = [
       "电子笔记"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=onenote.cloud.microsoft"
+  },
+  {
+    "id": 1768013293623,
+    "name": "Adobe全家桶不限速",
+    "description": "Adobe全家桶不限速",
+    "url": "https://www.yuque.com/yihulaojiu-gsfg9/zz2qv5/77777?#",
+    "category": "recommended",
+    "tags": [
+      "Adobe全家桶"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.yuque.com"
   },
   {
     "id": 1767078889287,
@@ -912,5 +923,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-01-03"
+  lastUpdated: "2026-01-10"
 };
