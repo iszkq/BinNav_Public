@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/1/10 10:49:22
+// 网站数据 - 通过管理后台更新于 2026/1/10 11:51:12
 
 // 站点配置
 export const siteConfig = {
@@ -274,6 +274,17 @@ export const websiteData = [
       "Adobe全家桶"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=www.yuque.com"
+  },
+  {
+    "id": 1768017072302,
+    "name": "谷歌翻译",
+    "description": "谷歌翻译",
+    "url": "https://translate.google.com",
+    "category": "recommended",
+    "tags": [
+      "翻译"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=translate.google.com"
   },
   {
     "id": 1767078889287,
