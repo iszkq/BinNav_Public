@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/1/11 13:36:27
+// 网站数据 - 通过管理后台更新于 2026/1/11 13:37:18
 
 // 站点配置
 export const siteConfig = {
@@ -84,17 +84,6 @@ export const websiteData = [
       "EdgeOne"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=527012.xyz"
-  },
-  {
-    "id": 1768109742156,
-    "name": "nas",
-    "description": "nas",
-    "url": "https://dx4600-zkq.cn14.ug.link/desktop/#/login/account",
-    "category": "author",
-    "tags": [
-      "nas"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=ug.link"
   },
   {
     "id": 1766925881592,
