@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/1/11 13:37:18
+// 网站数据 - 通过管理后台更新于 2026/1/20 13:03:03
 
 // 站点配置
 export const siteConfig = {
@@ -16,38 +16,38 @@ export const websiteData = [
     "id": 1751807882512,
     "name": "恪勤博客（极速访问）",
     "description": "作者个人站点展示，通过mefrp国内隧道进行内网穿透",
-    "url": "http://47.116.196.47:47283/",
+    "url": "http://124.222.193.241:6253",
     "category": "author",
     "tags": [
       "个人站点",
       "Frp内网穿透"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=47.116.196.47"
+    "icon": "https://icon.nbvil.com/favicon?url=124.222.193.241"
   },
   {
     "id": 1751813976438,
     "name": "恪勤云盘（极速访问）",
     "description": "分享视频和一些小文档，通过mefrp国内隧道进行内网穿透",
-    "url": "http://47.116.196.47:57801",
+    "url": "http://124.222.193.241:6255",
     "category": "author",
     "tags": [
       "云盘",
       "Alist",
       "Frp内网穿透"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=47.116.196.47"
+    "icon": "https://icon.nbvil.com/favicon?url=124.222.193.241"
   },
   {
     "id": 1766924124588,
     "name": "运维后台（极速访问）",
     "description": "通过mefrp国内隧道进行内网穿透，速度很快",
-    "url": "http://47.116.196.47:54918/entrance",
+    "url": "http://124.222.193.241:6254/entrance",
     "category": "author",
     "tags": [
       "1panel",
       "Frp内网穿透"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=47.116.196.47"
+    "icon": "https://icon.nbvil.com/favicon?url=124.222.193.241"
   },
   {
     "id": 1766924225905,
@@ -934,5 +934,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-01-11"
+  lastUpdated: "2026-01-20"
 };
