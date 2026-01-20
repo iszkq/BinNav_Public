@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/1/20 13:03:03
+// 网站数据 - 通过管理后台更新于 2026/1/20 13:13:59
 
 // 站点配置
 export const siteConfig = {
@@ -46,6 +46,28 @@ export const websiteData = [
     "tags": [
       "1panel",
       "Frp内网穿透"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=124.222.193.241"
+  },
+  {
+    "id": 1768885893356,
+    "name": "内网穿透1panel",
+    "description": "腾讯云内网穿透1panel地址",
+    "url": "http://124.222.193.241:8090/tencentcloud",
+    "category": "author",
+    "tags": [
+      "内网穿透1panel"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=124.222.193.241"
+  },
+  {
+    "id": 1768886014580,
+    "name": "内网穿透客户端",
+    "description": "内网穿透客户端",
+    "url": "http://124.222.193.241:6256/",
+    "category": "author",
+    "tags": [
+      "frpc"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=124.222.193.241"
   },
