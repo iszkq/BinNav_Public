@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/1/20 13:13:59
+// 网站数据 - 通过管理后台更新于 2026/1/20 13:49:09
 
 // 站点配置
 export const siteConfig = {
@@ -48,6 +48,17 @@ export const websiteData = [
       "Frp内网穿透"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=124.222.193.241"
+  },
+  {
+    "id": 1768888121706,
+    "name": "腾讯云控制台",
+    "description": "腾讯云控制台",
+    "url": "https://console.cloud.tencent.com/lighthouse/instance/index?rid=4",
+    "category": "author",
+    "tags": [
+      "腾讯云控制台"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=console.cloud.tencent.com"
   },
   {
     "id": 1768885893356,
