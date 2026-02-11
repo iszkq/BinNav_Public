@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/2/11 09:29:39
+// 网站数据 - 通过管理后台更新于 2026/2/11 11:00:06
 
 // 站点配置
 export const siteConfig = {
@@ -115,6 +115,28 @@ export const websiteData = [
     "tags": [
       "1panel",
       "EdgeOne"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=527012.xyz"
+  },
+  {
+    "id": 1770778742136,
+    "name": "论坛（测试中）",
+    "description": "论坛（测试中）",
+    "url": "https://forum.527012.xyz",
+    "category": "author",
+    "tags": [
+      "论坛"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=forum.527012.xyz"
+  },
+  {
+    "id": 1770778805689,
+    "name": "香港机运维面板",
+    "description": "香港机运维面板",
+    "url": "https://panel.527012.xyz/entrance",
+    "category": "author",
+    "tags": [
+      "香港机运维面板"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=527012.xyz"
   },
