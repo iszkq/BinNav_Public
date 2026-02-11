@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/1/30 14:40:07
+// 网站数据 - 通过管理后台更新于 2026/2/11 09:29:31
 
 // 站点配置
 export const siteConfig = {
@@ -879,6 +879,17 @@ export const websiteData = [
       "音视频播放器"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=potplayer.info"
+  },
+  {
+    "id": 1770773369714,
+    "name": "狐蒂云",
+    "description": "云服务器",
+    "url": "https://www.szhdy.com/",
+    "category": "friend_links",
+    "tags": [
+      "云服务器"
+    ],
+    "icon": "/assets/logo.png"
   }
 ];
 
@@ -989,5 +1000,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-01-30"
+  lastUpdated: "2026-02-11"
 };
