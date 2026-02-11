@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/2/11 09:29:31
+// 网站数据 - 通过管理后台更新于 2026/2/11 09:29:39
 
 // 站点配置
 export const siteConfig = {
@@ -881,7 +881,7 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=potplayer.info"
   },
   {
-    "id": 1770773369714,
+    "id": 1770773373307,
     "name": "狐蒂云",
     "description": "云服务器",
     "url": "https://www.szhdy.com/",
