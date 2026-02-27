@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/2/11 11:00:06
+// 网站数据 - 通过管理后台更新于 2026/2/27 08:47:17
 
 // 站点配置
 export const siteConfig = {
@@ -279,12 +279,12 @@ export const websiteData = [
     "id": 1767017569736,
     "name": "Element",
     "description": "基于matrix矩阵的在线IM聊天平台",
-    "url": "https://app.element.io/",
+    "url": "https://chat.mtx01.cc/",
     "category": "recommended",
     "tags": [
       "在线聊天"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=app.element.io"
+    "icon": "https://icon.nbvil.com/favicon?url=chat.mtx01.cc"
   },
   {
     "id": 1767017777433,
@@ -1022,5 +1022,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-02-11"
+  lastUpdated: "2026-02-27"
 };
