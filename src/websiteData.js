@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/2/27 08:47:17
+// 网站数据 - 通过管理后台更新于 2026/3/1 22:08:11
 
 // 站点配置
 export const siteConfig = {
@@ -340,6 +340,17 @@ export const websiteData = [
       "翻译"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=translate.google.com"
+  },
+  {
+    "id": 1772374090022,
+    "name": "bk",
+    "description": "bk",
+    "url": "https://manna3.zlgem.com",
+    "category": "recommended",
+    "tags": [
+      "bk"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=manna3.zlgem.com"
   },
   {
     "id": 1767078889287,
@@ -1022,5 +1033,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-02-27"
+  lastUpdated: "2026-03-01"
 };
