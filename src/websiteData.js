@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/3/2 09:20:19
+// 网站数据 - 通过管理后台更新于 2026/3/17 15:04:55
 
 // 站点配置
 export const siteConfig = {
@@ -362,6 +362,17 @@ export const websiteData = [
       "音频转文字"
     ],
     "icon": "/assets/logo.png"
+  },
+  {
+    "id": 1773731093888,
+    "name": "cinny",
+    "description": "matrix客户端",
+    "url": "https://app.cinny.in/login/mtx01.cc",
+    "category": "recommended",
+    "tags": [
+      "matrix客户端"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=app.cinny.in"
   },
   {
     "id": 1767078889287,
@@ -1044,5 +1055,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-03-02"
+  lastUpdated: "2026-03-17"
 };
