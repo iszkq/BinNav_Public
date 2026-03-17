@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/3/17 15:04:55
+// 网站数据 - 通过管理后台更新于 2026/3/17 15:45:52
 
 // 站点配置
 export const siteConfig = {
@@ -365,14 +365,14 @@ export const websiteData = [
   },
   {
     "id": 1773731093888,
-    "name": "cinny",
+    "name": "fluffychat",
     "description": "matrix客户端",
-    "url": "https://app.cinny.in/login/mtx01.cc",
+    "url": "https://fluffychat.im/web",
     "category": "recommended",
     "tags": [
       "matrix客户端"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=app.cinny.in"
+    "icon": "https://icon.nbvil.com/favicon?url=fluffychat.im"
   },
   {
     "id": 1767078889287,
