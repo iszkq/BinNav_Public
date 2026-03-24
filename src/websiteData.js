@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/3/17 15:45:52
+// 网站数据 - 通过管理后台更新于 2026/3/24 21:08:13
 
 // 站点配置
 export const siteConfig = {
@@ -141,6 +141,39 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=527012.xyz"
   },
   {
+    "id": 1767017569736,
+    "name": "Element",
+    "description": "基于matrix矩阵的在线IM聊天平台",
+    "url": "https://chat.mtx01.cc/",
+    "category": "category_1774357613662",
+    "tags": [
+      "在线聊天"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=chat.mtx01.cc"
+  },
+  {
+    "id": 1773731093888,
+    "name": "fluffychat",
+    "description": "matrix客户端",
+    "url": "https://fluffychat.im/web",
+    "category": "category_1774357613662",
+    "tags": [
+      "matrix客户端"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=fluffychat.im"
+  },
+  {
+    "id": 1774357692407,
+    "name": "cinny客户端",
+    "description": "matrix客户端",
+    "url": "https://app.cinny.in/login/mtx01.cc",
+    "category": "category_1774357613662",
+    "tags": [
+      "matrix客户端"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=app.cinny.in"
+  },
+  {
     "id": 1766925881592,
     "name": "Mefrp内网穿透",
     "description": "ME Frp 幻缘映射 - 提供免费内网穿透、端口映射服务，支持 Minecraft、泰拉瑞亚联机，远程桌面，开发调试，建站等。高速稳定，半公益性质，可以帮助你无公网 IP 远程访问后台、建站、调试、游戏联机等。",
@@ -276,17 +309,6 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=meet.jit.si"
   },
   {
-    "id": 1767017569736,
-    "name": "Element",
-    "description": "基于matrix矩阵的在线IM聊天平台",
-    "url": "https://chat.mtx01.cc/",
-    "category": "recommended",
-    "tags": [
-      "在线聊天"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=chat.mtx01.cc"
-  },
-  {
     "id": 1767017777433,
     "name": "Microsoft Teams",
     "description": "Microsoft Teams 让协作更轻松。所有工具和文件都整合在一个位置，旨在帮助你轻松自如地建立联系、保持有序并将想法付诸于实践。",
@@ -362,17 +384,6 @@ export const websiteData = [
       "音频转文字"
     ],
     "icon": "/assets/logo.png"
-  },
-  {
-    "id": 1773731093888,
-    "name": "fluffychat",
-    "description": "matrix客户端",
-    "url": "https://fluffychat.im/web",
-    "category": "recommended",
-    "tags": [
-      "matrix客户端"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=fluffychat.im"
   },
   {
     "id": 1767078889287,
@@ -962,7 +973,14 @@ export const categories = [
     "name": "常用推荐",
     "icon": "/assets/star.png",
     "special": false,
-    "subcategories": []
+    "subcategories": [
+      {
+        "id": "category_1774357613662",
+        "name": "matrix客户端",
+        "icon": "/assets/element-logo.svg",
+        "special": true
+      }
+    ]
   },
   {
     "id": "category_1766928043166",
@@ -1055,5 +1073,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-03-17"
+  lastUpdated: "2026-03-24"
 };
