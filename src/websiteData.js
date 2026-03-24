@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/3/24 21:08:13
+// 网站数据 - 通过管理后台更新于 2026/3/24 21:19:34
 
 // 站点配置
 export const siteConfig = {
@@ -978,7 +978,8 @@ export const categories = [
         "id": "category_1774357613662",
         "name": "matrix客户端",
         "icon": "/assets/element-logo.svg",
-        "special": true
+        "special": false,
+        "subcategories": []
       }
     ]
   },
