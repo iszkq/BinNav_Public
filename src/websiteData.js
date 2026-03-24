@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/3/24 21:19:34
+// 网站数据 - 通过管理后台更新于 2026/3/24 21:23:30
 
 // 站点配置
 export const siteConfig = {
@@ -174,90 +174,132 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=app.cinny.in"
   },
   {
-    "id": 1766925881592,
-    "name": "Mefrp内网穿透",
-    "description": "ME Frp 幻缘映射 - 提供免费内网穿透、端口映射服务，支持 Minecraft、泰拉瑞亚联机，远程桌面，开发调试，建站等。高速稳定，半公益性质，可以帮助你无公网 IP 远程访问后台、建站、调试、游戏联机等。",
-    "url": "https://mefrp.com",
-    "category": "recommended",
+    "id": 1772414417419,
+    "name": "TurboScribe音频转文字",
+    "description": "每天免费三次，文件无限大小",
+    "url": "https://turboscribe.ai",
+    "category": "category_1774358440580",
     "tags": [
-      "内网穿透",
-      "frp"
+      "音频转文字"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=mefrp.com"
+    "icon": "https://icon.nbvil.com/favicon?url=turboscribe.ai"
   },
   {
-    "id": 1766930071980,
-    "name": "草料二维码",
-    "description": "一站式二维码生成工具，免费可用。提供编码解码、数据统计、富文本和多媒体展示、表单制作、美化标签、批量管理等功能，并可作为无代码平台，搭建二维码信息系统。",
-    "url": "https://cli.im/",
-    "category": "recommended",
+    "id": 1772374090022,
+    "name": "bk",
+    "description": "bk",
+    "url": "https://manna3.zlgem.com",
+    "category": "category_1774358440580",
     "tags": [
-      "二维码在线生成"
+      "bk"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=cli.im"
+    "icon": "https://icon.nbvil.com/favicon?url=manna3.zlgem.com"
   },
   {
-    "id": 1767015598728,
-    "name": "Microsoft Clipchamp",
-    "description": "使用免版税音乐和库存视频素材制作视频，应用预设视频模板，导出最高 4K 分辨率视频。可在浏览器中开始使用，下载 Windows 应用，或使用 iOS 应用随时随地创作。",
-    "url": "https://clipchamp.com/zh-hans/",
-    "category": "recommended",
+    "id": 1768017072302,
+    "name": "谷歌翻译",
+    "description": "谷歌翻译",
+    "url": "https://translate.google.com",
+    "category": "category_1774358440580",
     "tags": [
-      "转录音视频",
-      "剪辑视频"
+      "翻译"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=clipchamp.com"
+    "icon": "https://icon.nbvil.com/favicon?url=translate.google.com"
   },
   {
-    "id": 1767015732865,
-    "name": "Microsoft Onedrive",
-    "description": "发现 OneDrive，享受安全便捷的文件和文档共享。获取个人云存储空间，轻松与家人和朋友共享文件。",
-    "url": "https://www.microsoft.com/zh-cn/microsoft-365/onedrive/online-cloud-storage",
-    "category": "recommended",
+    "id": 1768013293623,
+    "name": "Adobe全家桶不限速",
+    "description": "Adobe全家桶不限速",
+    "url": "https://www.yuque.com/yihulaojiu-gsfg9/zz2qv5/77777?#",
+    "category": "category_1774358440580",
     "tags": [
-      "个人文件云存储"
+      "Adobe全家桶"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.yuque.com"
+  },
+  {
+    "id": 1767058134885,
+    "name": "Microsoft OneNote 笔记",
+    "description": "Microsoft OneNote，你的电子笔记本\n一本多功能笔记本，满足你所有的笔记需求。",
+    "url": "https://onenote.cloud.microsoft/en-gb/",
+    "category": "category_1774358440580",
+    "tags": [
+      "电子笔记"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=onenote.cloud.microsoft"
+  },
+  {
+    "id": 1767058021378,
+    "name": "spaceship域名",
+    "description": "推荐.xyz域名，十年只需四十几",
+    "url": "https://www.spaceship.com/zh/",
+    "category": "category_1774358440580",
+    "tags": [
+      "域名购买"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.spaceship.com"
+  },
+  {
+    "id": 1767017777433,
+    "name": "Microsoft Teams",
+    "description": "Microsoft Teams 让协作更轻松。所有工具和文件都整合在一个位置，旨在帮助你轻松自如地建立联系、保持有序并将想法付诸于实践。",
+    "url": "https://www.microsoft.com/zh-cn/microsoft-teams/group-chat-software/",
+    "category": "category_1774358440580",
+    "tags": [
+      "在线聊天"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=www.microsoft.com"
   },
   {
-    "id": 1767016491623,
-    "name": "Wetransfer",
-    "description": "大文件在线云传，三天内免费",
-    "url": "https://wetransfer.com/",
-    "category": "recommended",
+    "id": 1767017486004,
+    "name": "Jitsi Meet",
+    "description": "免费在线会议",
+    "url": "https://meet.jit.si/",
+    "category": "category_1774358440580",
     "tags": [
-      "文件云传"
+      "在线会议"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=wetransfer.com"
+    "icon": "https://icon.nbvil.com/favicon?url=meet.jit.si"
   },
   {
-    "id": 1767016552944,
-    "name": "ziteboard",
-    "description": "在线白板工具",
-    "url": "https://app.ziteboard.com/?lang=TW",
-    "category": "recommended",
+    "id": 1767016988167,
+    "name": "B站视频下载",
+    "description": "B站、YouTube、TikTok等视频下载",
+    "url": "https://snapany.com/zh/bilibili",
+    "category": "category_1774358440580",
     "tags": [
-      "在线白板工具"
+      "视频下载"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=app.ziteboard.com"
+    "icon": "https://icon.nbvil.com/favicon?url=snapany.com"
   },
   {
-    "id": 1767016652101,
-    "name": "SMS在线接码（需魔法）",
-    "description": "SMS在线接码（需魔法）",
-    "url": "https://www.sms-activation.net/",
-    "category": "recommended",
+    "id": 1767016889045,
+    "name": "YouTube视频下载器（需魔法）",
+    "description": "YouTube视频下载",
+    "url": "https://zh.loader.to/1/1080p-video-downloader.html",
+    "category": "category_1774358440580",
     "tags": [
-      "接码"
+      "YouTube视频下载"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=sms-activation.net"
+    "icon": "https://icon.nbvil.com/favicon?url=zh.loader.to"
+  },
+  {
+    "id": 1767016857847,
+    "name": "M3U8视频转码下载",
+    "description": "m3u8 视频在线提取工具",
+    "url": "https://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html",
+    "category": "category_1774358440580",
+    "tags": [
+      "视频转码"
+    ],
+    "icon": "/assets/logo.png"
   },
   {
     "id": 1767016799692,
     "name": "图片转文字（需魔法）",
     "description": "在线图片转文字，文件互转",
     "url": "https://www.imagetotext.info/zh/image-to-text",
-    "category": "recommended",
+    "category": "category_1774358440580",
     "tags": [
       "图文识别",
       "文件互转"
@@ -265,125 +307,83 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=www.imagetotext.info"
   },
   {
-    "id": 1767016857847,
-    "name": "M3U8视频转码下载",
-    "description": "m3u8 视频在线提取工具",
-    "url": "https://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html",
-    "category": "recommended",
+    "id": 1767016652101,
+    "name": "SMS在线接码（需魔法）",
+    "description": "SMS在线接码（需魔法）",
+    "url": "https://www.sms-activation.net/",
+    "category": "category_1774358440580",
     "tags": [
-      "视频转码"
+      "接码"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.sms-activation.net"
+  },
+  {
+    "id": 1767016552944,
+    "name": "ziteboard",
+    "description": "在线白板工具",
+    "url": "https://app.ziteboard.com/?lang=TW",
+    "category": "category_1774358440580",
+    "tags": [
+      "在线白板工具"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=app.ziteboard.com"
+  },
+  {
+    "id": 1767016491623,
+    "name": "Wetransfer",
+    "description": "大文件在线云传，三天内免费",
+    "url": "https://wetransfer.com/",
+    "category": "category_1774358440580",
+    "tags": [
+      "文件云传"
     ],
     "icon": "/assets/logo.png"
   },
   {
-    "id": 1767016889045,
-    "name": "YouTube视频下载器（需魔法）",
-    "description": "YouTube视频下载",
-    "url": "https://zh.loader.to/1/1080p-video-downloader.html",
-    "category": "recommended",
+    "id": 1767015732865,
+    "name": "Microsoft Onedrive",
+    "description": "发现 OneDrive，享受安全便捷的文件和文档共享。获取个人云存储空间，轻松与家人和朋友共享文件。",
+    "url": "https://www.microsoft.com/zh-cn/microsoft-365/onedrive/online-cloud-storage",
+    "category": "category_1774358440580",
     "tags": [
-      "YouTube视频下载"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=zh.loader.to"
-  },
-  {
-    "id": 1767016988167,
-    "name": "B站视频下载",
-    "description": "B站、YouTube、TikTok等视频下载",
-    "url": "https://snapany.com/zh/bilibili",
-    "category": "recommended",
-    "tags": [
-      "视频下载"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=snapany.com"
-  },
-  {
-    "id": 1767017486004,
-    "name": "Jitsi Meet",
-    "description": "免费在线会议",
-    "url": "https://meet.jit.si/",
-    "category": "recommended",
-    "tags": [
-      "在线会议"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=meet.jit.si"
-  },
-  {
-    "id": 1767017777433,
-    "name": "Microsoft Teams",
-    "description": "Microsoft Teams 让协作更轻松。所有工具和文件都整合在一个位置，旨在帮助你轻松自如地建立联系、保持有序并将想法付诸于实践。",
-    "url": "https://www.microsoft.com/zh-cn/microsoft-teams/group-chat-software/",
-    "category": "recommended",
-    "tags": [
-      "在线聊天"
+      "个人文件云存储"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=www.microsoft.com"
   },
   {
-    "id": 1767058021378,
-    "name": "spaceship域名",
-    "description": "推荐.xyz域名，十年只需四十几",
-    "url": "https://www.spaceship.com/zh/",
-    "category": "recommended",
+    "id": 1767015598728,
+    "name": "Microsoft Clipchamp",
+    "description": "使用免版税音乐和库存视频素材制作视频，应用预设视频模板，导出最高 4K 分辨率视频。可在浏览器中开始使用，下载 Windows 应用，或使用 iOS 应用随时随地创作。",
+    "url": "https://clipchamp.com/zh-hans/",
+    "category": "category_1774358440580",
     "tags": [
-      "域名购买"
+      "转录音视频",
+      "剪辑视频"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=www.spaceship.com"
+    "icon": "https://icon.nbvil.com/favicon?url=clipchamp.com"
   },
   {
-    "id": 1767058134885,
-    "name": "Microsoft OneNote 笔记",
-    "description": "Microsoft OneNote，你的电子笔记本\n一本多功能笔记本，满足你所有的笔记需求。",
-    "url": "https://onenote.cloud.microsoft/en-gb/",
-    "category": "recommended",
+    "id": 1766930071980,
+    "name": "草料二维码",
+    "description": "一站式二维码生成工具，免费可用。提供编码解码、数据统计、富文本和多媒体展示、表单制作、美化标签、批量管理等功能，并可作为无代码平台，搭建二维码信息系统。",
+    "url": "https://cli.im/",
+    "category": "category_1774358440580",
     "tags": [
-      "电子笔记"
+      "二维码在线生成"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=onenote.cloud.microsoft"
+    "icon": "https://icon.nbvil.com/favicon?url=cli.im"
   },
   {
-    "id": 1768013293623,
-    "name": "Adobe全家桶不限速",
-    "description": "Adobe全家桶不限速",
-    "url": "https://www.yuque.com/yihulaojiu-gsfg9/zz2qv5/77777?#",
-    "category": "recommended",
+    "id": 1766925881592,
+    "name": "Mefrp内网穿透",
+    "description": "ME Frp 幻缘映射 - 提供免费内网穿透、端口映射服务，支持 Minecraft、泰拉瑞亚联机，远程桌面，开发调试，建站等。高速稳定，半公益性质，可以帮助你无公网 IP 远程访问后台、建站、调试、游戏联机等。",
+    "url": "https://mefrp.com",
+    "category": "category_1774358440580",
     "tags": [
-      "Adobe全家桶"
+      "内网穿透",
+      "frp"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=www.yuque.com"
-  },
-  {
-    "id": 1768017072302,
-    "name": "谷歌翻译",
-    "description": "谷歌翻译",
-    "url": "https://translate.google.com",
-    "category": "recommended",
-    "tags": [
-      "翻译"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=translate.google.com"
-  },
-  {
-    "id": 1772374090022,
-    "name": "bk",
-    "description": "bk",
-    "url": "https://manna3.zlgem.com",
-    "category": "recommended",
-    "tags": [
-      "bk"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=manna3.zlgem.com"
-  },
-  {
-    "id": 1772414417419,
-    "name": "TurboScribe音频转文字",
-    "description": "每天免费三次，文件无限大小",
-    "url": "https://turboscribe.ai",
-    "category": "recommended",
-    "tags": [
-      "音频转文字"
-    ],
-    "icon": "/assets/logo.png"
+    "icon": "https://icon.nbvil.com/favicon?url=mefrp.com"
   },
   {
     "id": 1767078889287,
@@ -978,6 +978,12 @@ export const categories = [
         "id": "category_1774357613662",
         "name": "matrix客户端",
         "icon": "/assets/element-logo.svg",
+        "special": true
+      },
+      {
+        "id": "category_1774358440580",
+        "name": "其他",
+        "icon": "/assets/innovation_icon.png",
         "special": false,
         "subcategories": []
       }
