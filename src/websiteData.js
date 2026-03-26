@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/3/24 21:23:30
+// 网站数据 - 通过管理后台更新于 2026/3/26 09:12:52
 
 // 站点配置
 export const siteConfig = {
@@ -956,6 +956,17 @@ export const websiteData = [
       "云服务器"
     ],
     "icon": "/assets/logo.png"
+  },
+  {
+    "id": 1774487569600,
+    "name": "GitHub开源代码托管平台",
+    "description": "GitHub开源代码托管平台",
+    "url": "https://github.com",
+    "category": "friend_links",
+    "tags": [
+      "开源代码托管平台"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=github.com"
   }
 ];
 
@@ -1080,5 +1091,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-03-24"
+  lastUpdated: "2026-03-26"
 };
