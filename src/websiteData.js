@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/3/26 09:12:52
+// 网站数据 - 通过管理后台更新于 2026/4/14 23:18:08
 
 // 站点配置
 export const siteConfig = {
@@ -172,6 +172,17 @@ export const websiteData = [
       "matrix客户端"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=app.cinny.in"
+  },
+  {
+    "id": 1776179886321,
+    "name": "cinny【改】",
+    "description": "matrix网页客户端修改版",
+    "url": "https://chat.221819.best",
+    "category": "category_1774357613662",
+    "tags": [
+      "matrix客户端"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=chat.221819.best"
   },
   {
     "id": 1772414417419,
@@ -1091,5 +1102,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-03-26"
+  lastUpdated: "2026-04-14"
 };
