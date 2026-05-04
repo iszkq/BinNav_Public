@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/4/19 13:41:34
+// 网站数据 - 通过管理后台更新于 2026/5/4 23:07:28
 
 // 站点配置
 export const siteConfig = {
@@ -384,6 +384,28 @@ export const websiteData = [
       "frp"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=mefrp.com"
+  },
+  {
+    "id": 1777906031372,
+    "name": "mp3tag",
+    "description": "编辑音频信息，打标签，网易云音乐加歌词",
+    "url": "https://www.mp3tag.de/en/index.html",
+    "category": "category_1774358440580",
+    "tags": [
+      "音频标签"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.mp3tag.de"
+  },
+  {
+    "id": 1777907247356,
+    "name": "歌词时间轴",
+    "description": "给歌词打时间轴",
+    "url": "https://lrc.moyutime.cn/",
+    "category": "category_1774358440580",
+    "tags": [
+      "musiclrc"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=lrc.moyutime.cn"
   },
   {
     "id": 1767078889287,
@@ -1091,5 +1113,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-04-19"
+  lastUpdated: "2026-05-04"
 };
