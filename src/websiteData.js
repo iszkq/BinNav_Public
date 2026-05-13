@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/4 23:07:28
+// 网站数据 - 通过管理后台更新于 2026/5/13 08:52:12
 
 // 站点配置
 export const siteConfig = {
@@ -115,28 +115,6 @@ export const websiteData = [
     "tags": [
       "1panel",
       "EdgeOne"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=527012.xyz"
-  },
-  {
-    "id": 1770778742136,
-    "name": "论坛（测试中）",
-    "description": "论坛（测试中）",
-    "url": "https://forum.527012.xyz",
-    "category": "author",
-    "tags": [
-      "论坛"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=forum.527012.xyz"
-  },
-  {
-    "id": 1770778805689,
-    "name": "香港机运维面板",
-    "description": "香港机运维面板",
-    "url": "https://panel.527012.xyz/entrance",
-    "category": "author",
-    "tags": [
-      "香港机运维面板"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=527012.xyz"
   },
@@ -1113,5 +1091,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-05-04"
+  lastUpdated: "2026-05-13"
 };
