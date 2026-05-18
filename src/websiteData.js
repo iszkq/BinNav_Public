@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/13 08:52:12
+// 网站数据 - 通过管理后台更新于 2026/5/18 14:26:42
 
 // 站点配置
 export const siteConfig = {
@@ -947,17 +947,6 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=potplayer.info"
   },
   {
-    "id": 1770773373307,
-    "name": "狐蒂云",
-    "description": "云服务器",
-    "url": "https://www.szhdy.com/",
-    "category": "friend_links",
-    "tags": [
-      "云服务器"
-    ],
-    "icon": "/assets/logo.png"
-  },
-  {
     "id": 1774487569600,
     "name": "GitHub开源代码托管平台",
     "description": "GitHub开源代码托管平台",
@@ -1091,5 +1080,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-05-13"
+  lastUpdated: "2026-05-18"
 };
