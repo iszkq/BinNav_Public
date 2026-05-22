@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/18 14:26:42
+// 网站数据 - 通过管理后台更新于 2026/5/23 00:47:46
 
 // 站点配置
 export const siteConfig = {
@@ -384,6 +384,17 @@ export const websiteData = [
       "musiclrc"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=lrc.moyutime.cn"
+  },
+  {
+    "id": 1779468464854,
+    "name": "魔戒vpn",
+    "description": "魔戒vpn",
+    "url": "https://mojie.app/shop",
+    "category": "category_1774358440580",
+    "tags": [
+      "vpn"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=mojie.app"
   },
   {
     "id": 1767078889287,
@@ -1080,5 +1091,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-05-18"
+  lastUpdated: "2026-05-22"
 };
