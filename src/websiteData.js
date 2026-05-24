@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/24 13:45:54
+// 网站数据 - 通过管理后台更新于 2026/5/24 14:29:51
 
 // 站点配置
 export const siteConfig = {
@@ -407,6 +407,17 @@ export const websiteData = [
       "clash"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=clash.life"
+  },
+  {
+    "id": 1779604189873,
+    "name": "闪电猫",
+    "description": "闪电猫vpn",
+    "url": "https://闪电猫.com/#/dashboard",
+    "category": "category_1774358440580",
+    "tags": [
+      "vpn"
+    ],
+    "icon": "/assets/logo.png"
   },
   {
     "id": 1767078889287,
