@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/23 00:47:46
+// 网站数据 - 通过管理后台更新于 2026/5/24 13:45:02
 
 // 站点配置
 export const siteConfig = {
@@ -395,6 +395,18 @@ export const websiteData = [
       "vpn"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=mojie.app"
+  },
+  {
+    "id": 1779601501647,
+    "name": "Clash",
+    "description": "Clash vpn节点前端",
+    "url": "https://clash.life/clash-windows-download",
+    "category": "category_1774358440580",
+    "tags": [
+      "vpn",
+      "clash"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=clash.life"
   },
   {
     "id": 1767078889287,
@@ -1091,5 +1103,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-05-22"
+  lastUpdated: "2026-05-24"
 };
