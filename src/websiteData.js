@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/24 14:29:51
+// 网站数据 - 通过管理后台更新于 2026/5/24 15:57:48
 
 // 站点配置
 export const siteConfig = {
@@ -418,6 +418,17 @@ export const websiteData = [
       "vpn"
     ],
     "icon": "/assets/logo.png"
+  },
+  {
+    "id": 1779609467425,
+    "name": "桔子小铺",
+    "description": "各种资源购买",
+    "url": "https://juzixp.com/",
+    "category": "category_1774358440580",
+    "tags": [
+      "资源购买"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=juzixp.com"
   },
   {
     "id": 1767078889287,
