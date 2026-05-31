@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/24 15:57:48
+// 网站数据 - 通过管理后台更新于 2026/5/31 21:47:05
 
 // 站点配置
 export const siteConfig = {
@@ -429,6 +429,17 @@ export const websiteData = [
       "资源购买"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=juzixp.com"
+  },
+  {
+    "id": 1780235222815,
+    "name": "壁纸站",
+    "description": "各种图片壁纸",
+    "url": "https://haowallpaper.com/",
+    "category": "category_1774358440580",
+    "tags": [
+      "壁纸"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=haowallpaper.com"
   },
   {
     "id": 1767078889287,
@@ -1125,5 +1136,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-05-24"
+  lastUpdated: "2026-05-31"
 };
