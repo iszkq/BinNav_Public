@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/31 21:47:05
+// 网站数据 - 通过管理后台更新于 2026/7/14 20:07:47
 
 // 站点配置
 export const siteConfig = {
@@ -440,6 +440,17 @@ export const websiteData = [
       "壁纸"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=haowallpaper.com"
+  },
+  {
+    "id": 1784030864932,
+    "name": "alapi接口",
+    "description": "各种服务的接口",
+    "url": "https://www.alapi.cn/",
+    "category": "category_1774358440580",
+    "tags": [
+      "接口服务"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.alapi.cn"
   },
   {
     "id": 1767078889287,
@@ -1136,5 +1147,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-05-31"
+  lastUpdated: "2026-07-14"
 };
