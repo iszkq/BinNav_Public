@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/7/14 20:07:47
+// 网站数据 - 通过管理后台更新于 2026/7/31 16:34:29
 
 // 站点配置
 export const siteConfig = {
@@ -451,6 +451,17 @@ export const websiteData = [
       "接口服务"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=www.alapi.cn"
+  },
+  {
+    "id": 1785486866339,
+    "name": "独角兽",
+    "description": "vpn，支持按量或者按月流量",
+    "url": "https://sos.d9s.one/",
+    "category": "category_1774358440580",
+    "tags": [
+      "vpn"
+    ],
+    "icon": "/assets/logo.png"
   },
   {
     "id": 1767078889287,
@@ -1147,5 +1158,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-07-14"
+  lastUpdated: "2026-07-31"
 };
