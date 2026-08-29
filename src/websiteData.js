@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/7/31 16:34:29
+// 网站数据 - 通过管理后台更新于 2026/8/29 23:58:13
 
 // 站点配置
 export const siteConfig = {
@@ -668,6 +668,17 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=www.framer.com"
   },
   {
+    "id": 1788019091960,
+    "name": "前端ui库",
+    "description": "前端ui库",
+    "url": "https://semi.design/zh-CN/",
+    "category": "category_1766928043166",
+    "tags": [
+      "ui"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=semi.design"
+  },
+  {
     "id": 1766930143700,
     "name": "在线网易云音乐",
     "description": "网易云音乐，音乐，播放器，网易，下载，播放，DJ，免费，明星，精选，歌单，识别音乐，收藏，分享音乐，音乐互动，高音质，320K，音乐社交，官网，music.163.com",
@@ -1158,5 +1169,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-07-31"
+  lastUpdated: "2026-08-29"
 };
