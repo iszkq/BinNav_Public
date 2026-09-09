@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/8/29 23:58:13
+// 网站数据 - 通过管理后台更新于 2026/9/9 15:08:22
 
 // 站点配置
 export const siteConfig = {
@@ -724,6 +724,17 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=www.xiaohongshu.com"
   },
   {
+    "id": 1788937701043,
+    "name": "aihubmix",
+    "description": "aihubmix",
+    "url": "https://console.aihubmix.com/token",
+    "category": "category_1751807929795",
+    "tags": [
+      "ai"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=console.aihubmix.com"
+  },
+  {
     "id": 1751811992820,
     "name": "ChatGPT",
     "description": "ChatGPT 是由 OpenAI 开发的先进语言模型，支持自然语言理解与生成。",
@@ -1169,5 +1180,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-08-29"
+  lastUpdated: "2026-09-09"
 };
