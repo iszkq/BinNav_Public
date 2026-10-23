@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/9/9 15:08:22
+// 网站数据 - 通过管理后台更新于 2026/10/23 11:05:18
 
 // 站点配置
 export const siteConfig = {
@@ -161,6 +161,17 @@ export const websiteData = [
       "matrix客户端"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=chat.221819.best"
+  },
+  {
+    "id": 1792724716053,
+    "name": "llamain",
+    "description": "pdf转md",
+    "url": "https://cloud.llamaindex.ai",
+    "category": "recommended",
+    "tags": [
+      "工具"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=cloud.llamaindex.ai"
   },
   {
     "id": 1772414417419,
@@ -1180,5 +1191,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-09-09"
+  lastUpdated: "2026-10-23"
 };
