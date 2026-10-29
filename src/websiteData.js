@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/10/29 10:42:43
+// 网站数据 - 通过管理后台更新于 2026/10/29 10:43:28
 
 // 站点配置
 export const siteConfig = {
@@ -119,13 +119,13 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=527012.xyz"
   },
   {
-    "id": 1793241762562,
-    "name": "文章整理",
-    "description": "整理文章",
-    "url": "https://124.222.193.241:6259",
+    "id": 1793241804742,
+    "name": "雨露",
+    "description": "雨露",
+    "url": "https://liferain.pages.dev/",
     "category": "author",
     "tags": [
-      "整理文章"
+      "雨露"
     ],
     "icon": "/assets/logo.png"
   },
