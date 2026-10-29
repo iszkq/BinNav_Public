@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/10/23 11:05:18
+// 网站数据 - 通过管理后台更新于 2026/10/29 10:42:43
 
 // 站点配置
 export const siteConfig = {
@@ -117,6 +117,17 @@ export const websiteData = [
       "EdgeOne"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=527012.xyz"
+  },
+  {
+    "id": 1793241762562,
+    "name": "文章整理",
+    "description": "整理文章",
+    "url": "https://124.222.193.241:6259",
+    "category": "author",
+    "tags": [
+      "整理文章"
+    ],
+    "icon": "/assets/logo.png"
   },
   {
     "id": 1767017569736,
@@ -1191,5 +1202,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-10-23"
+  lastUpdated: "2026-10-29"
 };
