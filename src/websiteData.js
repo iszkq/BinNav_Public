@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/10/29 10:43:28
+// 网站数据 - 通过管理后台更新于 2026/10/30 08:53:38
 
 // 站点配置
 export const siteConfig = {
@@ -126,6 +126,17 @@ export const websiteData = [
     "category": "author",
     "tags": [
       "雨露"
+    ],
+    "icon": "/assets/logo.png"
+  },
+  {
+    "id": 1793321615935,
+    "name": "文章整理",
+    "description": "文章整理",
+    "url": "http://124.222.193.241:6259",
+    "category": "author",
+    "tags": [
+      "文章整理"
     ],
     "icon": "/assets/logo.png"
   },
@@ -1202,5 +1213,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-10-29"
+  lastUpdated: "2026-10-30"
 };
